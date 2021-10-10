@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jkmn@protonmail.com
+	name = Julien KARMANN
